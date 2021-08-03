@@ -9,3 +9,4 @@ Below are the list of project i have done using **JavaScript**, it has been incr
 - Navbar
 - Reviews
 - sidebar
+- popup modal
